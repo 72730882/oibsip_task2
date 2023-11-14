@@ -195,6 +195,17 @@ a:hover{
    color: #e3e5e1;
    text-align: left;
 }
+h4{
+    color: #e3e5e1; 
+}
+.T{
+    float: left;
+    padding-left: 150px;
+}
+.L{
+    float: left;
+    padding-left: 300px;
+}
 .btn{
     
 	background-color:rgb(156, 16, 166);
