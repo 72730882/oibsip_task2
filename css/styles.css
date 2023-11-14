@@ -9,6 +9,10 @@ header{
     padding-top: 30px;
     padding-left: 200px;
 }
+.h21{
+    font-size: 50px;
+    line-height: 2;
+}
 .ce{
     width: 90px;
     padding-right: 80px;
@@ -22,17 +26,19 @@ body{
 h1{
     font-size: 30px;
     margin: 50px auto 0 auto;
-    color: #c25fe6;             
+    color: #c25fe6;
+    text-align: center;             
 }
 .introd{
     text-align: left;
 }
 .profession{
-    line-height: 0;
+    line-height: 2;
     color: #c25fe6;
+    
 }
 h2{
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     color: #dbeeef; 
     line-height: 2;     
     font-weight: normal;
@@ -140,7 +146,6 @@ h3{
 .bottom{
     background-color: #39374e;
     padding: 0 0 1px;
-   
 }
 .w{
     width: 10px;
@@ -252,9 +257,7 @@ h4{
 .copyright{
     color: #EAF6F6;
     font-size: 0.75rem;
-
 }
-
 .skills{
     width: 30%;
     padding-top: 0; 
@@ -262,9 +265,7 @@ h4{
 }
 .skill{
     background-color: #e3e5e1;
-    
 }
-
 .c{
     width: 50px;
 }
