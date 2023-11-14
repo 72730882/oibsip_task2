@@ -1,0 +1,277 @@
+header{
+    background-color: #39374e;
+    font-family: verdana;
+    font-weight: 100px;
+    font-size: x-large;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    padding-top: 30px;
+    padding-left: 200px;
+}
+.ce{
+    width: 90px;
+    padding-right: 80px;
+}
+body{
+    margin: 0;  
+    text-align: center;
+    position: relative;
+    background-color: black;
+}
+h1{
+    font-size: 30px;
+    margin: 50px auto 0 auto;
+    color: #c25fe6;             
+}
+.introd{
+    text-align: left;
+}
+.profession{
+    line-height: 0;
+    color: #c25fe6;
+}
+h2{
+    font-size: 2.5rem;
+    color: #dbeeef; 
+    line-height: 2;     
+    font-weight: normal;
+}
+.hob{
+    text-align: left;
+    color: #c25fe6;
+}
+ul{
+    color: #effafa;
+    text-align: left;
+
+}
+.fm{
+    line-height: 2;
+    color: #c25fe6;
+    
+}
+.me{
+    padding-right: 50px;
+    line-height: 0;
+    color: #c25fe6;
+    
+}
+h3{
+    color: #11999E;
+} 
+.body2{
+    background-color: #020208;
+}
+.myresume{
+    width: 700px;
+    margin: auto;
+    height: 500px;
+}
+.resumeh3{
+    padding-top: 20px;
+}
+.top{
+    background-color: black;
+    margin: auto;
+    
+    padding-top: 130px;
+    padding-bottom: 100px;
+}
+.image1{
+    width: 100px;
+    padding-right: 600px;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+.self{
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.upper{
+    display: inline;
+  
+    width: 100px;
+    height: 0;
+    padding-top: 180px;
+    margin-top: 100px;
+}
+.developer{
+    width: 25%;
+    margin: auto 200px auto 50px;
+    float: right;
+}
+.middle{
+}
+.profile{
+    padding-top: 30px;
+    text-align: center;
+}
+
+.myphoto{
+    width: 200px;
+    float: left;
+    padding-left: 150px;
+    padding-bottom: 80px;
+}
+
+.abtme{
+    color:#c25fe6;
+    line-height: 0;
+    padding-top: 80px;
+}
+.abt{
+    padding-top: 30px;
+    text-align: center;
+}
+.img2{
+    width: 200px;
+    float: right;
+    padding-right: 150px;
+    padding-bottom: 80px;
+}
+.about{
+    width: 50%;  
+    text-align: left;
+   font-size: 1.3rem;
+   color: #e3e5e1;
+}
+.bottom{
+    background-color: #39374e;
+    padding: 0 0 1px;
+   
+}
+.w{
+    width: 10px;
+    padding-left: 20px;
+} 
+.li{
+    width: 10px;
+}
+.tw{
+    width: 10px;
+}
+.g{
+    width: 10px;
+}  
+hr{
+    border: dotted #EAF6F6;
+    border-bottom: none;
+    width: 4%;
+    margin: auto;
+}
+p{
+    display: inline-block;
+    text-align: left;
+}
+.a{
+    width: 150px;
+    font-size: medium;
+    padding-bottom: 10px;
+}
+.b{
+    width: 200px;
+    font-size: medium;
+    padding-bottom: 10px;
+}
+.c{
+    width: 200px;
+    font-size: medium;
+    padding-bottom: 10px;
+}
+a{
+    color: white;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #0b8989
+}
+.intro{
+   width: 50%;  
+   margin: left; 
+   font-size: 1.3rem;
+   color: #e3e5e1;
+   text-align: left;
+}
+.btn{
+    
+	background-color:rgb(156, 16, 166);
+	border-radius:18px;
+	border:3px solid #283d2a;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:23px;
+	font-weight:bold;
+	padding:13px 28px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn:hover {
+	background-color:#1c4843;
+}
+.btn:active {
+	position:relative;
+	top:0;
+}
+.cv{
+	background-color: white;
+	border-radius:18px;
+	border:3px solid #283d2a;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:23px;
+	font-weight:bold;
+	padding:13px 28px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.cv:hover {
+	background-color:#0fdbc3;
+}
+.cv:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+
+}
+
+.skills{
+    width: 30%;
+    padding-top: 0; 
+    text-align: center;  
+}
+.skill{
+    background-color: #e3e5e1;
+    
+}
+
+.c{
+    width: 50px;
+}
+.ds{
+    width: 50px;
+}
+.cs{
+    width: 50px;
+}
+.ht{
+    width: 50px;
+}
+.js{
+    width: 50px;
+}
+.j{
+    width: 50px;
+}
+.py{
+    width: 50px;
+}
